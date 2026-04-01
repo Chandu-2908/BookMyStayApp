@@ -12,7 +12,7 @@ public class UC1 {
 
         // End message
         System.out.println("Application started successfully!");
-        System.out.println("=================================");
+        System.out.println("===============================");
     }
 }
 
