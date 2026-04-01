@@ -17,7 +17,7 @@ public class UC2RoomInitialization {
 
         singleRoom.displayDetails();
         System.out.println("Available: " + singleAvailable);
-        System.out.println("------------------------");
+        System.out.println("----------------------");
 
         doubleRoom.displayDetails();
         System.out.println("Available: " + doubleAvailable);
